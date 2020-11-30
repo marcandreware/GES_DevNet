@@ -2,6 +2,6 @@
 
 import datetime
 
-print("This was printed at:", datetime.datetime.now().strftime("%c"))
+print("This cloned from Git and was printed at:", datetime.datetime.now().strftime("%c"))
 print("Show me the points!")
 
